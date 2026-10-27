@@ -1,398 +1,613 @@
+<!--
+██████╗ ██╗██╗     ██╗██████╗     ██████╗  ██████╗ ██╗   ██╗████████╗██████╗  █████╗ ██╗   ██╗
+██╔══██╗██║██║     ██║██╔══██╗    ██╔══██╗██╔═══██╗██║   ██║╚══██╔══╝██╔══██╗██╔══██╗╚██╗ ██╔╝
+██║  ██║██║██║     ██║██████╔╝    ██████╔╝██║   ██║██║   ██║   ██║   ██████╔╝███████║ ╚████╔╝
+██║  ██║██║██║     ██║██╔═══╝     ██╔══██╗██║   ██║██║   ██║   ██║   ██╔══██╗██╔══██║  ╚██╔╝
+██████╔╝██║███████╗██║██║         ██║  ██║╚██████╔╝╚██████╔╝   ██║   ██║  ██║██║  ██║   ██║
+╚═════╝ ╚═╝╚══════╝╚═╝╚═╝         ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
+-->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dilip%20Routray&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Systems%20Builder&descAlignY=55&descSize=20&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=280&section=header&text=DILIP%20ROUTRAY&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=40&stroke=6B21A8&strokeWidth=2&desc=DevSecOps%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AI%20Systems%20Engineer&descSize=18&descColor=C4B5FD&descAlignY=62" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+Enterprise+DevSecOps+Pipelines;☁️+Azure+Cloud+Architect+%26+Landing+Zone+Expert;🤖+AI+%7C+MCP+%7C+RAG+%7C+Agentic+Systems+Engineer;🔐+Security-First+Infrastructure+at+Scale;🌍+Migrating+100%2B+Workloads+to+Cloud;💡+From+Zero+to+Architecture+—+All+In!" alt="Typing SVG" />
-</a>
+</div>
 
-<br/>
+<div align="center">
 
-<!-- Profile Badges Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diliproutray12)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diliproutray12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/diliproutray12)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diliproutray12@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&width=750&lines=🔐+Architecting+Zero-Trust+Enterprise+Cloud+at+Scale;🤖+Building+AI+Agents+that+Think%2C+Act+%26+Deploy;☁️+100%2B+Workload+Migrations+%7C+Zero+Downtime;🧠+MCP+%7C+RAG+%7C+LangGraph+%7C+Multi-Agent+Orchestration;⚡+Terraform+%7C+GitOps+%7C+Shift-Left+Security+%7C+FinOps;🌐+The+Future+of+Infra+is+Intelligent+—+I'm+Building+It" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=diliproutray12&label=Profile%20Views&color=7c3aed&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/diliproutray12?label=Followers&style=for-the-badge&color=302b63&logo=github)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/_%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/diliproutray12)&nbsp;
+[![GitHub](https://img.shields.io/badge/_%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED)](https://github.com/diliproutray12)&nbsp;
+[![Email](https://img.shields.io/badge/_%20Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:diliproutray12@gmail.com)&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=diliproutray12&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge)](https://github.com/diliproutray12)
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+<div align="center">
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+## `> whoami`
 
-```yaml
-Name        : Dilip Routray
-Role        : DevSecOps Engineer | Cloud Architect | AI Systems Builder
-Location    : India 🇮🇳
-Focus Areas :
-  - Enterprise Azure Cloud Architecture
-  - DevSecOps Pipeline Automation (IaC, SAST, DAST)
-  - AI Engineering: MCP, RAG, Agents, LLM Ops
-  - 100+ Workload Cloud Migration Strategy
-  - FinOps & Cost Governance
-  - Kubernetes, Docker, Terraform at Scale
-Status      : "Turning Infrastructure Into Art 🎨"
-Mindset     : Security-First. Automation-Obsessed. Always Learning.
-Open To     : Senior DevSecOps | Cloud Architect | AI/MLOps Roles
+</div>
+
 ```
-
-<br clear="right"/>
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   $ cat /etc/dilip-routray.conf                                             │
+│                                                                             │
+│   NAME         : Dilip Routray                                              │
+│   DESIGNATION  : DevSecOps Engineer | Cloud Architect | AI Engineer         │
+│   LOCATION     : India  🇮🇳                                                  │
+│   TIMEZONE     : IST (UTC+5:30)                                             │
+│                                                                             │
+│   CORE_DOMAINS : [                                                          │
+│                    "Enterprise Azure Cloud Architecture",                   │
+│                    "DevSecOps Automation & IaC (Terraform, Ansible)",       │
+│                    "AI Engineering: MCP, RAG, Agentic Systems",             │
+│                    "100+ Workload Cloud Migration Strategy",                │
+│                    "FinOps & Cloud Financial Governance",                   │
+│                    "Kubernetes, AKS, GitOps at Enterprise Scale"            │
+│                  ]                                                          │
+│                                                                             │
+│   PHILOSOPHY   : "Don't manage infrastructure. Architect it.                │
+│                   Don't write code. Engineer intelligence."                 │
+│                                                                             │
+│   STATUS       : 🟢 OPEN TO WORK — Senior roles preferred                  │
+│   PRICE_TAG    : The kind that makes hiring managers hesitate               │
+│                  before opening the budget spreadsheet.                     │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🎯 Core Philosophy
+## ⚡ The Manifesto
 
-> *"Infrastructure should be invisible to developers and impenetrable to attackers — built once, reused forever, governed always."*
+<div align="center">
 
-I approach every cloud engagement with **three non-negotiable pillars**:
+> ### *"The world runs on infrastructure.*
+> ### *The infrastructure of the future runs on intelligence.*
+> ### *I am building the bridge between them —*
+> ### *secured, automated, and governed at every layer."*
 
-| 🔐 **Security by Design** | ⚙️ **Everything as Code** | 📈 **Business ROI First** |
+<br/>
+
+| 🏗️ I DON'T CLICK CONSOLES | 🔐 I DON'T TRUST IMPLICITLY | 🤖 I DON'T IGNORE AI |
 |:---:|:---:|:---:|
-| Zero Trust. PIM. Policy-as-Code. Shift-Left SAST. | Terraform. GitOps. YAML Pipelines. No ClickOps. | TCO Analysis. FinOps. Reserved Instances. Rightsizing. |
-
----
-
-## 🤖 AI Engineering — The Future I'm Building
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║          AI ENGINEERING STACK — THE INTELLIGENCE LAYER          ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   🧩 MCP (Model Context Protocol)                               ║
-║      └─ Connecting AI Models to Real-World Tools & Data         ║
-║                                                                  ║
-║   🔍 RAG (Retrieval Augmented Generation)                       ║
-║      └─ Knowledge Bases + Vector DBs + LLM Grounding            ║
-║                                                                  ║
-║   🤖 Agentic AI Systems                                         ║
-║      └─ Multi-Agent Orchestration | LangGraph | CrewAI           ║
-║                                                                  ║
-║   📦 LLM Ops & Deployment                                       ║
-║      └─ Azure OpenAI | Hugging Face | Ollama | vLLM              ║
-║                                                                  ║
-║   🔗 AI + DevSecOps Integration                                 ║
-║      └─ AI-Assisted Code Review | Automated Security Triage     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Vector DB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
+| **Everything is Code.** Terraform, YAML Pipelines, Helm Charts, Policy-as-Code. No ClickOps. Ever. | **Zero Trust Architecture.** Every identity verified. Every secret vaulted. Every packet inspected. | **AI is not optional.** RAG, MCP Servers, Agentic workflows — baked into every layer of the stack. |
 
 </div>
 
 ---
 
-## ☁️ Enterprise Cloud Architecture
+## 🤖 AI Engineering — Where I Live in 2025
+
+<div align="center">
 
 ```
-                    ┌──────────────────────────────┐
-                    │   Microsoft Entra ID Tenant   │
-                    └──────────────┬───────────────┘
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║    ░█████╗░██╗    ███████╗███╗  ██╗ ██████╗ ██╗███╗  ██╗███████╗         ║
+║    ██╔══██╗██║    ██╔════╝████╗ ██║██╔════╝ ██║████╗ ██║██╔════╝         ║
+║    ███████║██║    █████╗  ██╔██╗██║██║  ███╗██║██╔██╗██║█████╗           ║
+║    ██╔══██║██║    ██╔══╝  ██║╚████║██║   ██║██║██║╚████║██╔══╝           ║
+║    ██║  ██║██║    ███████╗██║ ╚███║╚██████╔╝██║██║ ╚███║███████╗         ║
+║    ╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚══╝ ╚═════╝ ╚═╝╚═╝  ╚══╝╚══════╝        ║
+║                                                                           ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║                                                                           ║
+║  🧩  MCP  ──── Model Context Protocol                                     ║
+║       └── AI models connected to real systems: Terraform, K8s, Azure     ║
+║           Live infra provisioning via natural language. No humans needed  ║
+║                                                                           ║
+║  🔍  RAG  ──── Retrieval Augmented Generation                             ║
+║       └── Enterprise knowledge bases + Vector DBs (Pinecone/Chroma)      ║
+║           LLMs grounded in YOUR data. Not hallucination. Truth.           ║
+║                                                                           ║
+║  🕸️  AGENTS ── Multi-Agent Orchestration Systems                          ║
+║       └── LangGraph · CrewAI · AutoGen · Custom Tool-Using Agents         ║
+║           Agents that plan, execute, validate & self-correct.             ║
+║                                                                           ║
+║  🚀  LLMOps ─ Production AI Deployment & Governance                       ║
+║       └── Azure OpenAI · HuggingFace · Ollama · vLLM · Prompt Mgmt       ║
+║           Because getting a model to work is 10%. Shipping it is 90%.    ║
+║                                                                           ║
+║  🔗  AI × DevSecOps ── The Intersection That Matters                      ║
+║       └── AI-driven incident triage · Automated security remediation      ║
+║           Self-healing pipelines · Intelligent drift detection             ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
+[![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)](https://langchain.com)
+[![LangGraph](https://img.shields.io/badge/🕸_LangGraph-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://langchain-ai.github.io/langgraph)
+[![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+[![Ollama](https://img.shields.io/badge/Ollama_Local_LLM-000?style=for-the-badge)](https://ollama.com)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB_VectorDB-FF6B35?style=for-the-badge)](https://docs.trychroma.com)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)](https://pinecone.io)
+
+</div>
+
+---
+
+## ☁️ Enterprise Azure Architecture — CAF at Scale
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                                          ▓
+▓            MICROSOFT AZURE — CLOUD ADOPTION FRAMEWORK (CAF)             ▓
+▓                  Enterprise Landing Zone Hierarchy                       ▓
+▓                                                                          ▓
+▓                  ╔════════════════════════════╗                          ▓
+▓                  ║  Microsoft Entra ID Tenant  ║                         ▓
+▓                  ╚═══════════════╦════════════╝                          ▓
+▓                                  ║                                       ▓
+▓                  ╔═══════════════▼════════════╗                          ▓
+▓                  ║     Tenant Root Group       ║                         ▓
+▓                  ╚═══╦═══════════╦════════╦═══╝                          ▓
+▓                      ║           ║        ║                              ▓
+▓           ╔══════════▼══╗  ╔═════▼═════╗ ╔▼══════════════╗              ▓
+▓           ║  Platform MG ║  ║ Workloads ║ ║  Sandbox / 🗑️ ║             ▓
+▓           ╠══════════════╣  ╠═══════════╣ ╠═══════════════╣              ▓
+▓           ║ 🪪 Identity   ║  ║ 🏢 Corp   ║ ║ 🧪 Sandbox MG ║             ▓
+▓           ║ 📡 Mgmt/Logs ║  ║ 🌐 Online  ║ ║ 🗑️  Decomm MG  ║            ▓
+▓           ║ 🔀 Hub/FW    ║  ║ 💻 Dev Sub ║ ╚═══════════════╝             ▓
+▓           ╚══════════════╝  ║ 🧪 UAT Sub ║                              ▓
+▓                              ║ 🚀 Prd Sub ║                              ▓
+▓                              ╚═══════════╝                               ▓
+▓                                                                          ▓
+▓  Azure Policy ──► CIS Benchmark ──► RBAC/PIM ──► Defender for Cloud     ▓
+▓  Subscription Isolation ──► Blast Radius Control ──► FinOps Tagging     ▓
+▓                                                                          ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+</div>
+
+---
+
+## 🔐 DevSecOps Pipeline — The Gold Standard
+
+<div align="center">
+
+```
+ DEVELOPER PUSHES CODE
+         │
+         ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│  📝  PRE-COMMIT HOOKS                                                   │
+│      GitLeaks · TruffleHog · terraform fmt · tflint                    │
+│      🚫 Secrets never leave the developer's machine                     │
+└──────────────────────────────────┬──────────────────────────────────────┘
+                                   │ PULL REQUEST OPENED
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🔍  STAGE 1 — VALIDATE & LINT                                          │
+│      terraform validate · tflint · YAML lint · Markdown lint            │
+└──────────────────────────────────┬──────────────────────────────────────┘
                                    │
-                    ┌──────────────▼───────────────┐
-                    │      Tenant Root Group        │
-                    └──────────────┬───────────────┘
-           ┌───────────────────────┼───────────────────────┐
-           ▼                       ▼                       ▼
-  ┌────────────────┐    ┌──────────────────┐    ┌────────────────────┐
-  │    Platform    │    │  Landing Zones   │    │ Sandbox/Decomm MG  │
-  │  Management   │    │  (Workloads MG)  │    │                    │
-  │   Group (MG)  │    │                  │    │  • Sandbox MG      │
-  │               │    │  • Corp (Int'l)  │    │  • Decommission MG │
-  │ • Identity MG │    │  • Online (DMZ)  │    └────────────────────┘
-  │ • Mgmt MG     │    │  • Dev Subs      │
-  │ • Connect MG  │    │  • UAT Subs      │
-  └────────────────┘    │  • Prod Subs     │
-                         └──────────────────┘
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🛡️  STAGE 2 — SECURITY FORTRESS                                        │
+│      Checkov · tfsec · Trivy (container + IaC) · OWASP ZAP (DAST)      │
+│      🔴 HARD FAIL on Critical/High findings — PR blocked automatically  │
+└──────────────────────────────────┬──────────────────────────────────────┘
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│  💰  STAGE 3 — COST INTELLIGENCE                                        │
+│      Infracost — PR comment shows exact $delta before merge             │
+│      🎯 Cost increase >20% triggers automatic finance team alert        │
+└──────────────────────────────────┬──────────────────────────────────────┘
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🏗️  STAGE 4 — PLAN & DRIFT DETECTION                                   │
+│      terraform plan → saved artifact · Drift Detection (nightly cron)  │
+│      Remote state: Azure Blob + Lease Lock + Least Privilege MI         │
+└──────────────────────────────────┬──────────────────────────────────────┘
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│  ✅  STAGE 5 — MANDATORY APPROVAL GATE                                  │
+│      Minimum 2 Senior Reviewers · CODEOWNERS enforced                   │
+│      No Direct Push to main · No Delete on prod branches                │
+└──────────────────────────────────┬──────────────────────────────────────┘
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🚀  STAGE 6 — DEPLOY WITH CONFIDENCE                                   │
+│      terraform apply · AKS Helm upgrade · Azure CLI ARM deployments     │
+│      🔁 Auto-rollback on failure · Slack/Teams notification on complete │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
-
-<div align="center">
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 </div>
 
 ---
 
-## 🔐 DevSecOps Pipeline — Shift-Left Security
-
-```
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║           ENTERPRISE DEVSECOPS PIPELINE ARCHITECTURE          ║
-  ╠═══════════════════════════════════════════════════════════════╣
-  ║                                                               ║
-  ║  📝 CODE         🔍 SCAN          🏗️ BUILD         🚀 DEPLOY  ║
-  ║  ─────────       ─────────        ─────────         ───────── ║
-  ║  Git Commit  ──► tflint       ──► Plan Artifact ──► Manual   ║
-  ║  PR Review   ──► Checkov      ──► Infracost     ──► Approval  ║
-  ║  CODEOWNERS  ──► Trivy/tfsec  ──► Peer Review   ──► Apply    ║
-  ║  GitLeaks    ──► SAST/DAST    ──► Drift Detect  ──► Rollback  ║
-  ║                                                               ║
-  ╠═══════════════════════════════════════════════════════════════╣
-  ║  🔒 Branch Protection  |  ✅ 2 Approvals  |  🏷️ Semver Tags   ║
-  ╚═══════════════════════════════════════════════════════════════╝
-```
-
-### Pipeline Pillars I Implement
-
-| Stage | Tools & Practice |
-|:------|:-----------------|
-| 🔍 **Secrets Detection** | GitLeaks, truffleHog — Pre-commit hooks & CI gates |
-| 🛡️ **SAST / IaC Scan** | Checkov, tfsec, Trivy — Policy-as-Code enforcement |
-| 💰 **Cost Estimation** | Infracost — PR-level cloud spend forecasting |
-| 🔄 **Drift Detection** | `terraform plan -detailed-exitcode` — Nightly scheduled pipelines |
-| ✅ **Approval Gates** | Environment-level manual approvals for UAT & Production |
-| 🔁 **Auto Rollback** | Pipeline-native failure rollback with state lock awareness |
-
----
-
-## 🌐 Hub-and-Spoke Network Architecture
-
-```
-          [ On-Premises Datacenter ]
-                     │
-        (ExpressRoute / Site-to-Site VPN)
-                     │
-    ┌────────────────▼────────────────────┐
-    │       HUB VNet — Central Nexus      │
-    │                                     │
-    │  🔥 Azure Firewall / NVA            │
-    │  🔀 VPN / ExpressRoute Gateway      │
-    │  🌐 Private DNS Zones               │
-    └────────────┬────────────────────────┘
-                 │  VNet Peering + UDR (0.0.0.0/0 → Firewall)
-       ┌─────────┴──────────┐
-       ▼                    ▼
-┌──────────────┐   ┌──────────────────┐
-│  Spoke 1     │   │  Spoke 2         │
-│  App VNet    │   │  Shared Services │
-│  ─────────   │   │  ─────────────   │
-│  App Subnets │   │  CI/CD Runners   │
-│  DB Subnets  │   │  Bastion Host    │
-│  Priv. Endpt │   │  Security Tools  │
-└──────────────┘   └──────────────────┘
-```
-
----
-
-## 🏗️ 100+ Workload Migration Lifecycle
-
-```
-┌───────────┐   ┌────────────┐   ┌──────────┐   ┌──────────┐   ┌────────────┐
-│ Discovery │──►│ Assessment │──►│ Readiness│──►│  Cutover │──►│ Hypercare  │
-│           │   │            │   │          │   │          │   │            │
-│ Inventory │   │ Compat &   │   │ Landing  │   │ Downtime │   │ 24x7 War   │
-│ Dep Maps  │   │ TCO / ROI  │   │ Zone     │   │ Window   │   │ Room       │
-│ Azure Mig │   │ Sizing     │   │ Ready    │   │ DNS Cut  │   │ SLA Watch  │
-└───────────┘   └────────────┘   └──────────┘   └──────────┘   └────────────┘
-```
-
-> 🏆 **Target:** Migrate 100+ workloads across Dev / UAT / Prod with **zero-downtime** and measurable **cloud spend reduction**
-
----
-
-## 🛡️ Multi-Layered Defense-in-Depth
-
-| Layer | Controls |
-|:------|:---------|
-| 🪪 **Identity** | Entra ID · Conditional Access · MFA · PIM · Managed Identities |
-| 🌐 **Network** | Hub-Spoke · NSG/ASG Micro-seg · Azure Firewall Premium · DDoS Std |
-| 📋 **Governance** | Azure Policy · CIS Benchmark · Defender for Cloud · MCSB |
-| 💻 **Compute** | Defender for Servers · Vuln Scanning · CMK Encryption · Patch Mgmt |
-| 🔑 **Secrets** | Key Vault · Managed Identity · Zero Secrets in Code |
-| 📊 **Observability** | Log Analytics · AMA · DCR Filtering · Teams/Slack Alerting |
-
----
-
-## 💡 Tech Arsenal
+## 🌐 Hub-and-Spoke — Enterprise Networking at Scale
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```
+                        ━━━━━━━━━━━━━━━━━━━━━━━━
+                        ON-PREMISES DATACENTER
+                        ━━━━━━━━━━━━━━━━━━━━━━━━
+                                   │
+                    ┌──────────────┴──────────────┐
+                    │  ExpressRoute (Primary)      │
+                    │  Site-to-Site VPN (Failover) │
+                    └──────────────┬──────────────┘
+                                   │
+          ╔════════════════════════▼═══════════════════════╗
+          ║           🌐  HUB VNET — CENTRAL NEXUS          ║
+          ║   ┌──────────────┐  ┌──────────┐  ┌─────────┐  ║
+          ║   │ Azure Firewall│  │  VPN/ER  │  │Private  │  ║
+          ║   │ Premium + NVA│  │ Gateway  │  │DNS Zones│  ║
+          ║   │ TLS Inspect  │  │(GwSubnet)│  │(Hub Link│  ║
+          ║   └──────────────┘  └──────────┘  └─────────┘  ║
+          ╚════════════════╦═══════════════════════════════╝
+                           │
+         UDR: 0.0.0.0/0 → Firewall IP (all traffic inspected)
+                           │
+           ┌───────────────┼────────────────┐
+           │               │                │
+           ▼               ▼                ▼
+    ┌─────────────┐ ┌──────────────┐ ┌──────────────┐
+    │  Spoke 1    │ │   Spoke 2    │ │   Spoke 3    │
+    │  App VNet   │ │ Shared Svc   │ │  Data VNet   │
+    │  ─────────  │ │  ─────────   │ │  ─────────   │
+    │ App Subnets │ │ CI/CD Agents │ │ SQL Priv.EP  │
+    │ DB Subnets  │ │ Bastion Host │ │ Storage BLOB │
+    │ Priv Endpts │ │ Security Hub │ │ Key Vault EP │
+    └─────────────┘ └──────────────┘ └──────────────┘
+```
 
-### 🔁 DevSecOps & CI/CD
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-4A90E2?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+</div>
 
-### 🤖 AI / ML Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone%20VectorDB-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+**Design Principles Applied:**
+- `🚫` Zero public endpoints for PaaS services — Private Endpoints + Private DNS everywhere
+- `🔥` Centralized inspection via Azure Firewall Premium with IDPS + TLS termination
+- `🎯` IPAM-managed CIDR blocks — zero overlap with on-prem address space
+- `🛡️` DDoS Protection Standard on Hub VNet — front-line volumetric attack mitigation
 
-### 📊 Monitoring & Observability
-![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+---
 
-### 💻 Languages & Scripting
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL%20(Terraform)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+## 🗺️ Cloud Migration — 100+ Workloads. Zero Downtime.
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              ENTERPRISE CLOUD MIGRATION LIFECYCLE (CAF ADOPT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  📡 DISCOVER      🔬 ASSESS       🏗️ READY        ✂️ CUTOVER       🏥 HYPERCARE
+  ─────────       ─────────       ─────────       ─────────       ─────────
+  Azure Migrate   Compat. Test    LZ Deployed     DNS TTL ↓       24×7 War Room
+  Dep. Mapping    TCO & ROI       Backup Verifyd  Traffic Reroute  SLA Watch
+  Bandwidth Sz.   Risk Matrix     RBAC Configured  DB Sync Final   Perf Bench
+  App Interview   Sizing Report   Security Bsline  Validation Run  Postmortem
+                                                                  2–4 Weeks
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+**Migration Pillars — The 10 Quality Gates I Enforce:**
+
+| # | Pillar | What It Means |
+|:-:|:-------|:-------------|
+| 1 | **Scalable** | VMSS, AKS HPA/KEDA, App Service autoscale — grows with demand |
+| 2 | **Robust** | Multi-region Active-Passive with ASR. RTO < 4hr, RPO < 15min |
+| 3 | **Secure** | Zero Trust, PIM, CMK, NSG micro-segmentation, Defender suite |
+| 4 | **Reliable** | Availability Zones, Load Balancers, Health Probes everywhere |
+| 5 | **Portable** | Container-first, Helm charts, IaC — move any cloud, any time |
+| 6 | **Governed** | Azure Policy, Management Groups, RACI, SOW, Change Control |
+| 7 | **Highly Available** | Geo-redundant (GRS), VMSS across AZs, Traffic Manager |
+| 8 | **Cost-Optimized** | Reserved Instances, Savings Plans, Auto Start/Stop, Rightsizing |
+| 9 | **Backed Up** | LRS/ZRS/GRS tiered, Azure Backup, point-in-time restore tested |
+| 10 | **Observable** | Log Analytics, DCR filtering, AMA agents, Action Group alerts |
+
+---
+
+## 🛡️ Defense in Depth — Security at Every Layer
+
+<div align="center">
+
+```
+        ┌──────────────────────────────────────────────────┐
+        │                  IDENTITY LAYER                  │
+        │   Entra ID · Conditional Access · MFA · PIM     │
+        │   Managed Identities · Service Principals        │
+        └────────────────────┬─────────────────────────────┘
+                             │
+        ┌────────────────────▼─────────────────────────────┐
+        │               PERIMETER LAYER                    │
+        │   Azure Firewall · DDoS Std · WAF · Front Door  │
+        │   App Gateway · IDPS · TLS Inspection            │
+        └────────────────────┬─────────────────────────────┘
+                             │
+        ┌────────────────────▼─────────────────────────────┐
+        │                NETWORK LAYER                     │
+        │   NSG · ASG Micro-segmentation · Private EP      │
+        │   Hub-Spoke UDR · VNet Peering · Bastion         │
+        └────────────────────┬─────────────────────────────┘
+                             │
+        ┌────────────────────▼─────────────────────────────┐
+        │                COMPUTE LAYER                     │
+        │   Defender for Servers · Disk CMK · Patch Mgmt  │
+        │   Vulnerability Assessment · EDR/XDR             │
+        └────────────────────┬─────────────────────────────┘
+                             │
+        ┌────────────────────▼─────────────────────────────┐
+        │             GOVERNANCE LAYER                     │
+        │   Azure Policy · CIS Benchmark · MCSB            │
+        │   Defender for Cloud Secure Score · ISO 27001    │
+        └────────────────────┬─────────────────────────────┘
+                             │
+        ┌────────────────────▼─────────────────────────────┐
+        │            OBSERVABILITY LAYER                   │
+        │   Log Analytics · Sentinel SIEM · DCR/AMA        │
+        │   Teams/PagerDuty Alerts · Audit Logs retained   │
+        └──────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 💰 FinOps — Cloud Spend is Engineering's Responsibility
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=diliproutray12&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=diliproutray12&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=a78bfa&ring=7c3aed&fire=ff6b6b&currStreakLabel=a78bfa" width="49%" alt="GitHub Streak" />
+| 🎯 Strategy | 🔧 Action | 📈 Impact |
+|:-----------|:---------|:---------|
+| **Waste Elimination** | Unattached disks, idle VMs, orphaned IPs automated detection | Immediate spend reduction |
+| **Rightsizing** | 30-day CPU/Memory P95 analysis → VM SKU recommendations | 20–40% compute savings |
+| **Commitment Discounts** | 1yr/3yr Reserved Instances + Azure Savings Plans | Up to 65% vs Pay-As-You-Go |
+| **Auto Scheduling** | Non-prod start/stop outside business hours via Automation | ~60% non-prod savings |
+| **Log Tuning** | DCR filters on noisy diagnostic tables | Cut Log Analytics bill by 40%+ |
+| **Tagging Governance** | Policy-enforced cost centre tags → Chargeback by team | Full financial accountability |
+
+</div>
+
+---
+
+## 🧰 Full Technology Stack
+
+<div align="center">
+
+### ☁️ Cloud Platform
+![Azure](https://skillicons.dev/icons?i=azure)
+
+[![Azure](https://img.shields.io/badge/Azure_CAF-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework)
+[![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)]()
+[![Azure Policy](https://img.shields.io/badge/Azure_Policy-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)]()
+[![Defender](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat-square&logo=microsoft&logoColor=white)]()
+[![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)]()
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+
+[![Terraform](https://img.shields.io/badge/Terraform_CAF_Modules-7B42BC?style=flat-square&logo=terraform&logoColor=white)]()
+[![tfsec](https://img.shields.io/badge/tfsec-0D1117?style=flat-square&logo=github&logoColor=white)]()
+[![Checkov](https://img.shields.io/badge/Checkov-4A90E2?style=flat-square)]()
+[![Infracost](https://img.shields.io/badge/Infracost-4E7B4E?style=flat-square)]()
+
+### 🐳 Containers & Orchestration
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Helm](https://skillicons.dev/icons?i=helm)
+
+[![AKS](https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)]()
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)]()
+[![KEDA](https://img.shields.io/badge/KEDA-326CE5?style=flat-square)]()
+[![Cilium](https://img.shields.io/badge/Cilium_CNI-F8C517?style=flat-square)]()
+
+### 🔁 CI/CD & GitOps
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Azure DevOps](https://skillicons.dev/icons?i=azure)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+
+[![Trunk-Based Dev](https://img.shields.io/badge/Trunk--Based_Dev-181717?style=flat-square&logo=git&logoColor=white)]()
+[![CODEOWNERS](https://img.shields.io/badge/CODEOWNERS-181717?style=flat-square&logo=github&logoColor=white)]()
+[![GitLeaks](https://img.shields.io/badge/GitLeaks-red?style=flat-square)]()
+[![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)]()
+
+### 🤖 AI & Machine Learning
+![Python](https://skillicons.dev/icons?i=python)
+
+[![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square)]()
+[![LangGraph](https://img.shields.io/badge/🕸_LangGraph-000?style=flat-square)]()
+[![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)]()
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)]()
+[![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square)]()
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)]()
+[![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)]()
+
+### 📊 Observability
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+![Grafana](https://skillicons.dev/icons?i=grafana)
+
+[![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)]()
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)]()
+[![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)]()
+[![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)]()
+
+### 💻 Languages
+![Bash](https://skillicons.dev/icons?i=bash)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![Python](https://skillicons.dev/icons?i=python)
+![Go](https://skillicons.dev/icons?i=go)
+
+</div>
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=diliproutray12&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=8B5CF6&text_color=CBD5E1&ring_color=7C3AED" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=diliproutray12&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=8B5CF6&ring=7C3AED&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=64748B" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diliproutray12&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="40%" alt="Top Languages" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=diliproutray12&bg_color=0D0D1A&color=8B5CF6&line=7C3AED&point=F59E0B&area_color=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Graph%20—%20Every%20commit%20is%20a%20statement" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=diliproutray12&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" width="100%"/>
+
+</div>
+
+---
+
+## 🚧 Currently In The Build
+
+<div align="center">
+
+```javascript
+const dilipRoutray = {
+  currentlyBuilding: [
+    {
+      name: "Enterprise Azure Landing Zone (CAF)",
+      stack: ["Terraform", "Azure Policy", "Management Groups", "PIM"],
+      status: "🔨 Active Build",
+      purpose: "Production-grade multi-subscription governance foundation"
+    },
+    {
+      name: "AI DevSecOps Security Advisor",
+      stack: ["Python", "LangGraph", "RAG", "Azure OpenAI", "Checkov"],
+      status: "🤖 Prototyping",
+      purpose: "AI agent that reviews IaC and auto-remediates security findings"
+    },
+    {
+      name: "MCP Infrastructure Provisioning Agent",
+      stack: ["MCP", "Python", "Terraform", "Claude API"],
+      status: "🧪 Research Phase",
+      purpose: "Provision cloud infra via natural language — no console, no commands"
+    },
+    {
+      name: "FinOps Intelligence Dashboard",
+      stack: ["Python", "Azure Cost API", "Grafana", "FastAPI"],
+      status: "📐 Designing",
+      purpose: "Real-time cloud spend analytics with AI anomaly detection"
+    }
+  ],
+
+  certificationRoadmap: [
+    "AZ-900 → AZ-104 → AZ-305 → AZ-400 (DevOps Expert)",
+    "CKA (Certified Kubernetes Administrator)",
+    "Terraform Associate → Professional",
+    "AI-900 → AI-102 (Azure AI Engineer)"
+  ],
+
+  openTo: "Senior DevSecOps | Cloud Architect | AI/MLOps — India & Remote"
+};
+```
+
+</div>
+
+---
+
+## 🌌 The Vision Statement
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   Every generation has its defining technology shift.                    │
+│                                                                          │
+│   The last decade was: "Move to the Cloud."                             │
+│   The next decade is:  "Make the Cloud Intelligent."                    │
+│                                                                          │
+│   I am not here to manage virtual machines.                             │
+│   I am here to architect self-healing, AI-governed,                     │
+│   zero-trust cloud platforms that enterprises depend on.                │
+│                                                                          │
+│   DevSecOps is not a job title. It's a philosophy:                      │
+│   Security is never an afterthought.                                    │
+│   Automation is never optional.                                         │
+│   Intelligence is the competitive advantage.                            │
+│                                                                          │
+│   I started from zero. I am building everything.                        │
+│   The trajectory is what matters — and mine is straight up.             │
+│                                                                          │
+│                                                       — Dilip Routray   │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📡 Let's Build Something That Matters
+
+<div align="center">
 
 <br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diliproutray12&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=diliproutray12&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
-
-</div>
-
----
-
-## 📚 Current Learning Roadmap
-
-```
-2024 ─────────────────────────────────────────────────────────── 2025 ──►
-
-  Q1: Azure Landing Zone Architecture + Terraform Modules (CAF)
-  Q2: DevSecOps Pipeline Mastery (Checkov, Trivy, GitLeaks, DAST)
-  Q3: AI Engineering — RAG, MCP Servers, LangGraph Agent Workflows
-  Q4: AKS Advanced (KEDA, Cilium, GitOps with ArgoCD)
-
-  🎯 Target: Azure DevOps Expert + AI Systems Engineer
-  🔥 Mission: Get sold at the highest price in the market
-```
-
----
-
-## 💼 What I'm Building
-
-<div align="center">
-
-| 🏗️ Project | 🛠️ Stack | 🎯 Purpose |
-|:-----------|:---------|:-----------|
-| **Enterprise Azure Landing Zone** | Terraform · Azure Policy · CAF | Production-grade multi-subscription governance |
-| **AI DevSecOps Assistant** | Python · LangChain · RAG · Azure OpenAI | AI-powered pipeline security advisor |
-| **MCP-Powered Infrastructure Agent** | MCP · Python · Terraform | Autonomous infra provisioning via AI agents |
-| **FinOps Cost Intelligence** | Python · Azure Cost API · Grafana | Real-time cloud spend analytics dashboard |
-| **GitOps Reference Architecture** | ArgoCD · Helm · AKS · GitHub Actions | End-to-end GitOps on Kubernetes |
-
-</div>
-
----
-
-## 🌟 The Vision
-
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                 │
-  │   "I want to be at the intersection of two revolutions:        │
-  │                                                                 │
-  │    The Cloud Revolution — where infra is code, security is     │
-  │    automated, and architectures scale to millions.             │
-  │                                                                 │
-  │    The AI Revolution — where intelligent agents augment         │
-  │    every layer of the stack, from code review to deployment    │
-  │    to incident response.                                        │
-  │                                                                 │
-  │    I am building at that intersection.                         │
-  │    I am Dilip Routray."                                        │
-  │                                                                 │
-  └─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-**I'm actively looking for opportunities in:**
-
-🔐 **Senior DevSecOps Engineer** | ☁️ **Cloud Architect** | 🤖 **AI/MLOps Engineer**
+> ### I'm actively seeking roles where **ambition meets opportunity.**
+> ### If you are building something real in **Cloud**, **DevSecOps**, or **AI** —
+> ### I want to be in that room.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diliproutray12)
-[![Email](https://img.shields.io/badge/Gmail-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diliproutray12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Star%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diliproutray12)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/diliproutray12)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_Me_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:diliproutray12@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/diliproutray12?tab=repositories)
 
 <br/>
 
-> 💡 **Open to:** Full-time roles · Contract engagements · Technical collaborations · Mentorship
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-
+<!-- GitHub Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-</div>
+<br/><br/>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
 
-<div align="center">
-  <sub>⚡ Designed with intent. Built with purpose. Secured by default. — <b>Dilip Routray</b></sub>
+<sub>
+  <b>⚡ Dilip Routray</b> — DevSecOps · Cloud Architect · AI Systems Engineer<br/>
+  <i>"Built with obsession. Secured by default. Governed at scale."</i>
+</sub>
+
 </div>
